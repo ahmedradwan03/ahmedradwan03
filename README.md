@@ -28,9 +28,11 @@ I’m Ahmed Radwan, a full-stack developer with a knack for crafting innovative 
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=lightbulb&logoColor=black)
 
-### Popular Repositories
+
+<!-- <div>
+  ### Popular Repositories
 
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=aahmedrradwan00&repo=Neomart&theme=dark)](https://github.com/aahmedrradwan00/Neomart)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=aahmedrradwan00&repo=NTI-Summer-training&theme=dark)](https://github.com/aahmedrradwan00/NTI-Summer-training)
 
-
+</div> -->
