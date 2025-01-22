@@ -1,5 +1,5 @@
 Hello 👋
-I’m Ahmed Radwan, a full-stack developer with a knack for crafting innovative solutions. Let’s connect!
+I’m Ahmed Radwan, a software engineer specializing in backend development with a passion for crafting innovative and efficient solutions. Let’s connect!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedradwan0/)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-FDCC00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aahmedrradwan00)
@@ -18,10 +18,6 @@ I’m Ahmed Radwan, a full-stack developer with a knack for crafting innovative 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -35,7 +31,9 @@ I’m Ahmed Radwan, a full-stack developer with a knack for crafting innovative 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logo=lightbulb&logoColor=black)
 
-
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 <!-- <div>
   ### Popular Repositories
