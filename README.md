@@ -3,6 +3,8 @@ I’m Ahmed Radwan, a full-stack developer with a knack for crafting innovative 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedradwan0/)
 [![Codeforces Badge](https://img.shields.io/badge/Codeforces-FDCC00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aahmedrradwan00)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aahmedrradwan00)
+
 
 
 <a href="https://github.com/aahmedrradwan00">
