@@ -2,7 +2,7 @@ Hello 👋
 I’m Ahmed Radwan, a software engineer specializing in backend development with a passion for crafting innovative and efficient solutions. Let’s connect!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedradwan0/)
-[![Codeforces Badge](https://img.shields.io/badge/Codeforces-FDCC00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aahmedrradwan00)
+[![Codeforces Badge](https://img.shields.io/badge/Codeforces-FDCC00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ahmedradwan0)
 [![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ahmedradwan0)
 
 
